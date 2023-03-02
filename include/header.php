@@ -1,4 +1,12 @@
+<style>
+    .navbarcss{
+        font-size: 20px;
+    }
+</style>
 <header id="header" class="transparent-header-modern fixed-header-bg-white w-100">  
+
+
+
             <div class="main-nav secondary-nav hover-success-nav py-2">
                
             <div class="container">
@@ -7,14 +15,14 @@
                             <nav class="navbar navbar-expand-lg navbar-light p-0"> <a class="navbar-brand position-relative" href="index.php"><img class="nav-logo" src="C:\wamp64\www\RealEstate-PHP\images\logo\hlogo.png" alt=""></a>
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                                    <ul class="navbar-nav mr-auto">
-                                        <li class="nav-item dropdown"> <a class="nav-link hover" href="index.php" role="button" aria-haspopup="true" aria-expanded="false">Home</a></li>
+                                    <ul class="navbar-nav mr-auto hover-text-primary navbarcss" >
+                                        <li class="nav-item dropdown" style="font-size: 40px;"> <a class="nav-link hover" href="index.php" role="button" aria-haspopup="true" aria-expanded="false"><h5>Home</h5></a></li>
 										
-										<li class="nav-item"> <a class="nav-link" href="about.php">About</a> </li>
+										<li class="nav-item" style="font-size: 40px;"> <a class="nav-link" href="about.php"><h5>About</h5></a> </li>
 										
-                                        <li class="nav-item"> <a class="nav-link" href="contact.php">Contact</a> </li>										
+                                        <li class="nav-item" style="font-size: 40px;"> <a class="nav-link" href="contact.php"><h5>Contact</h5></a> </li>										
 										
-                                        <li class="nav-item"> <a class="nav-link" href="property.php">Properties</a> </li>
+                                        <li class="nav-item"> <a class="nav-link" href="property.php"><h5>Properties</h5></a> </li>
                                         
                                         <!-- <li class="nav-item"> <a class="nav-link" href="agent.php">Agent</a> </li> -->
 
@@ -31,7 +39,7 @@
 											</ul>
                                         </li>
 										<?php } else { ?>
-										<li class="nav-item"> <a class="nav-link" href="login.php">Login/Register</a> </li>
+										<li class="nav-item"> <a class="nav-link" href="login.php"><h5>Login/Register</h5></a> </li>
 										<?php } ?>
 										
                                     </ul>

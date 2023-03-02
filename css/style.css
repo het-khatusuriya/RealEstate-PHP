@@ -1,3 +1,19 @@
+.navbarcss li {
+  font-size: 20px;
+}
+
+.navbarcss li::before {
+ font-size: 20px;
+  background-color: black;
+}
+
+.navbarcss li:hover {
+  color: blue;
+}
+
+
+
+
 .container,
 .container-fluid {
   transition: all 0.6s ease 0s;

@@ -35,7 +35,7 @@
                                                 </ul>
                                             </div>
                                         </div>
-                                        <div class="col-md-4 col-lg-4">
+                                        <!-- <div class="col-md-4 col-lg-4">
                                             <div class="footer-widget">
                                                 <h4 class="widget-title text-white double-down-line-left position-relative">Contact Us</h4>
                                                 <ul class="text-white">
@@ -46,7 +46,8 @@
                                                 </ul>
                                             </div>
                                             <div class="footer-widget media-widget mt-4 text-white hover-text-primary"> <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-google-plus-g"></i></a> <a href="#"><i class="fab fa-linkedin-in"></i></a> <a href="#"><i class="fas fa-rss"></i></a> </div>
-                                        </div>
+                                        
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -54,7 +55,7 @@
                     </div>
                 </div>
                 <div class="row copyright">
-                    <div class="col-sm-6"> <span class="text-white">© <?php echo date('Y');?> Housefinder - Developed By HK</span> </div>
+                    <div class="col-sm-6"> <span class="text-white">© <?php echo date('Y');?> Housefinder - Developed BY GROUP-3</span> </div>
                     <div class="col-sm-6">
                         <ul class="line-menu text-white hover-text-primary float-right">
                             <li><a href="#">Privacy & Policy</a></li>
