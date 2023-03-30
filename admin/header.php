@@ -142,9 +142,9 @@ if(!isset($_SESSION['auser']))
 							<li class="submenu">
 								<a href="#"><i class="fe fe-map"></i> <span> Auction</span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="#"> Add Auction</a></li>
-									<li><a href="#"> update Auction </a></li>
-									<li><a href="#"> Delete Auction </a></li>
+									<li><a href="registeraunction.php"> Add Auction</a></li>
+									<li><a href="auctionlist.php"> Edit auctions </a></li>
+		
 									
 								</ul>
 							</li>

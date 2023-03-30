@@ -23,7 +23,7 @@
                                         <li class="nav-item" style="font-size: 40px;"> <a class="nav-link" href="contact.php"><h5>Contact</h5></a> </li>										
 										
                                         <li class="nav-item"> <a class="nav-link" href="property.php"><h5>Properties</h5></a> </li>
-                                        
+                                        <li class="nav-item"> <a class="nav-link" href="auction.php"><h5>Auction</h5></a> </li>
                                         <!-- <li class="nav-item"> <a class="nav-link" href="agent.php">Agent</a> </li> -->
 
 										
