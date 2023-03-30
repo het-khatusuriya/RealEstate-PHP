@@ -152,7 +152,7 @@ if(isset($_REQUEST['reg']))
 									</div><!-- FOR MORE PROJECTS visit: codeastro.com -->
 									<div class="form-check-inline">
 									  <label class="form-check-label">
-										<input type="radio" class="form-check-input" name="utype" value="agent">Agent
+										<!-- <input type="radio" class="form-check-input" name="utype" value="agent">Agent -->
 									  </label>
 									</div>
 									<div class="form-check-inline disabled">
