@@ -18,7 +18,7 @@ if(isset($_REQUEST['login']))
 			   
 				$_SESSION['uid']=$row['uid'];
 				$_SESSION['uemail']=$email;
-				header("location:index.php");
+				header("location:builderindex.php");
 				
 		   }
 		   else{
@@ -132,8 +132,16 @@ if(isset($_REQUEST['login']))
 									<span class="or-line"></span>
 									<span class="span-or">or</span>
 								</div>
-							
-								<div class="text-center dont-have">Login as Builder <a href="loginbuyer.php">Login</a></div>
+								<!-- FOR MORE PROJECTS visit: codeastro.com -->
+								<!-- Social Login -->
+								<!-- <div class="social-login">
+									<span>Login with</span>
+									<a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a>
+									<a href="#" class="google"><i class="fab fa-google"></i></a>
+									<a href="#" class="facebook"><i class="fab fa-twitter"></i></a>
+									<a href="#" class="google"><i class="fab fa-instagram"></i></a>
+								</div> -->
+								<!-- /Social Login -->
 								
 								<div class="text-center dont-have">Don't have an account? <a href="register.php">Register</a></div>
 								

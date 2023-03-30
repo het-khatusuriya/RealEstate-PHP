@@ -37,9 +37,9 @@
 											<ul class="dropdown-menu">
 												<li class="nav-item"> <a class="nav-link" href="profile.php">Profile</a> </li>
 												<!-- <li class="nav-item"> <a class="nav-link" href="request.php">Property Request</a> </li> -->
-												<!-- <li class="nav-item"> <a class="nav-link" href="feature.php">Your Property</a> </li> -->
+												<li class="nav-item"> <a class="nav-link" href="feature.php">Your Property</a> </li>
 <li class="nav-item"> <a class="nav-link" href="logout.php">Logout</a> </li>	
-                                               
+                                                
 											</ul>
                                         </li>
 										<?php } else { ?>
@@ -48,7 +48,8 @@
 										
                                     </ul>
                                     
-									
+									<a class="btn btn-success d-none d-xl-block" style="border-radius:30px;" href="submitproperty.php">Add Property</a> 
+                                </div>
 									
                             </nav>
                         </div>
