@@ -17,13 +17,14 @@
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav mr-auto hover-text-primary navbarcss" >
                                         <li class="nav-item dropdown" style="font-size: 40px;"> <a class="nav-link hover" href="index.php" role="button" aria-haspopup="true" aria-expanded="false"><h5>Home</h5></a></li>
+                                        <li class="nav-item"> <a class="nav-link" href="feature.php">Your Property</a> </li>
 										
-										<li class="nav-item" style="font-size: 40px;"> <a class="nav-link" href="about.php"><h5>About</h5></a> </li>
+										<!-- <li class="nav-item" style="font-size: 40px;"> <a class="nav-link" href="about.php"><h5>About</h5></a> </li>
 										
-                                        <li class="nav-item" style="font-size: 40px;"> <a class="nav-link" href="contact.php"><h5>Contact</h5></a> </li>										
+                                        <li class="nav-item" style="font-size: 40px;"> <a class="nav-link" href="contact.php"><h5>Contact</h5></a> </li>										 -->
 										
-                                        <li class="nav-item"> <a class="nav-link" href="property.php"><h5>Properties</h5></a> </li>
-                                        <li class="nav-item"> <a class="nav-link" href="auction.php"><h5>Auction</h5></a> </li>
+                                        <!-- <li class="nav-item"> <a class="nav-link" href="property.php"><h5>Properties</h5></a> </li>
+                                        <li class="nav-item"> <a class="nav-link" href="auction.php"><h5>Auction</h5></a> </li> -->
                                         <!-- <li class="nav-item"> <a class="nav-link" href="agent.php">Agent</a> </li> -->
 
 										
@@ -37,7 +38,7 @@
 											<ul class="dropdown-menu">
 												<li class="nav-item"> <a class="nav-link" href="profile.php">Profile</a> </li>
 												<!-- <li class="nav-item"> <a class="nav-link" href="request.php">Property Request</a> </li> -->
-												<li class="nav-item"> <a class="nav-link" href="feature.php">Your Property</a> </li>
+												
 <li class="nav-item"> <a class="nav-link" href="logout.php">Logout</a> </li>	
                                                 
 											</ul>

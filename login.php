@@ -59,7 +59,7 @@ if(isset($_REQUEST['login']))
 <link rel="stylesheet" type="text/css" href="fonts/flaticon/flaticon.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link rel="stylesheet" type="text/css" href="css/login.css">
-<!-- FOR MORE PROJECTS visit: codeastro.com -->
+
 <!--	Title
 	=========================================================-->
 <title>Real Estate PHP</title>
@@ -146,7 +146,7 @@ if(isset($_REQUEST['login']))
 	<!--	login  -->
         
         
-        <!--	Footer   start--><!-- FOR MORE PROJECTS visit: codeastro.com -->
+        <!--	Footer   start-->
 		<?php include("include/footer.php");?>
 		<!--	Footer   start-->
         

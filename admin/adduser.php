@@ -163,7 +163,7 @@ if(isset($_REQUEST['reg']))
 									  <label class="form-check-label">
 										<input type="radio" class="form-check-input" name="utype" value="user" checked>User
 									  </label>
-									</div><!-- FOR MORE PROJECTS visit: codeastro.com -->
+									</div>
 									<!-- <div class="form-check-inline">
 									  <label class="form-check-label">
 										<input type="radio" class="form-check-input" name="utype" value="agent">Agent
